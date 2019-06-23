@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1560725091 source:/home/iroleh/Desktop/irolehCpp/main.cpp
+	<iostream>
+	<cmath>
+
+1560725091 source:/home/iroleh/Desktop/c++_programs/irolehCpp/main.cpp
+	<iostream>
+	<cmath>
+
