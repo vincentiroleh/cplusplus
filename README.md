@@ -1,2 +1,2 @@
 # CplusPlus
-A collection of Basic C++ projects
+A collection of Basic C++ code examples for learning sake
